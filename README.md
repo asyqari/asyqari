@@ -11,5 +11,5 @@ Skills: C / C++ / Java / Python / PHP / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asyqari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asyqarianugrah/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asyqari/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyqari)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyqari&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
