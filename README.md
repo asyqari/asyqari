@@ -1,6 +1,6 @@
 ### Hi there 👋, Asyqari Anugrah here!
 #### Computer Science | AI Entusiast
-![Computer Science | AI Entusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Computer Science | AI Entusiast](https://github.com/asyqari/asyqari/blob/19f9df2c642d9ad469c97e94ea44ae907bb2a082/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
