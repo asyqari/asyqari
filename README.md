@@ -2,8 +2,6 @@
 #### Computer Science | AI Entusiast
 ![Computer Science | AI Entusiast](https://github.com/asyqari/asyqari/blob/19f9df2c642d9ad469c97e94ea44ae907bb2a082/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills: C / C++ / Java / Python / PHP / HTML / CSS
 
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning at MojadiApp and Dicoding 
